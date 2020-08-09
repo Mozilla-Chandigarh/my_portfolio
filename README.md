@@ -2,12 +2,21 @@
 ## By [Hitik Saini](https://hitik20.tech/), [Mozilla Chandigarh](https://mozillachandigarh.tech/)
 A Resume-Portfolio template for anyone.
 ## See the [Demo](https://mozilla-chandigarh.github.io/my_portfolio/)
-## How to ?
-<li>Fork the current Repository </li>
-<li>Clone the repository </li>
-<li>Now have the code in your local PC, make changes in it like your name. </li>
-<li>After you're done commit your changes </li>
-<li>Push the changes in the forked Repository </li>
+# How to get your own portfolio website?
+## Git Commands
+Here are the commands you will need to get the work done.
+## Fork
+The very first step is to fork the  repository from GitHub.(The button appears at right-top corner)
+
+## Get the code
+Git clone 'URL' - copy all the code  in the current repo you forked
+
+## Add and Commit Changes
+Make changes and 'git add . 'them  followed by git commit -m"your message"
+
+## Push Changes
+Changes have been made, push  them git push origin "branch"
+
 
 ## Thing to Change
 You need to change the photograph that appears on left Navbar -> Just paste your photograph(.jpg) in <b>sources</b> folder of this repository and rename it to my_img
