@@ -194,8 +194,8 @@ figure {
   width: 60vw;
   display: block;
   margin-bottom: 2%;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 0vw;
+  margin-right: 0vw;
 }
 .edu-img{
   width: 35vw;
